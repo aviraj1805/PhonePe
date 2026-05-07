@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+db_connect.py
+charts/.streamlit/secrets.toml
+.streamlit/
+migrate_to_cloud.py
