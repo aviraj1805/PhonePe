@@ -209,17 +209,6 @@ Once the dashboard is running:
 3. Apply filters (state, year, quarter) where available to drill down into specific segments.
 4. Charts are interactive — hover for exact values, click legends to filter series.
 
----
-
-## Dashboard Pages
-
-| Page | Description |
-|---|---|
-| Overview | KPI cards (total transactions, total amount, total users) and 8 key insights |
-| Transaction Analysis | State-level choropleth map, payment category breakdown, quarterly trends, and state benchmarking |
-| User Analysis | Customer segmentation by state, year-over-year user growth, and identification of untapped markets |
-| Insurance Analysis | Top states by insurance policy count with supporting data table |
-| Fraud and Risk Detection | Pattern-based scatter plot flagging anomalous transaction behavior, with a suspicious states summary |
 
 ---
 
